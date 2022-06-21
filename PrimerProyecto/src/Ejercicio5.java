@@ -19,7 +19,7 @@ public class Ejercicio5 {
 		double longitud = 2*PI*radio;
 		double area = PI*radio*radio;
 		
-		System.out.println("La longitud es: "+longitud+" \ny el area es: "+area);
+		//System.out.println("La longitud es: "+longitud+" \ny el area es: "+area);
 		System.out.printf("El area es %.2f cm2 y la longitud es %.2f cm ", area, longitud);
 
 	}
